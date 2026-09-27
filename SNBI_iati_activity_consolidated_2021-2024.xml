@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <iati-activities version="2.03">
-  <iati-activity last-updated-datetime="2026-09-27T10:00:00+00:00" xml:lang="fr" default-currency="BIF" humanitarian="0" hierarchy="1" linked-data-uri="">
+  <iati-activity last-updated-datetime="2026-09-27T08:00:00+00:00" xml:lang="fr" default-currency="BIF" humanitarian="0" hierarchy="1" linked-data-uri="">
     <iati-identifier>BI-NIF-4001055070-10201-2404.10</iati-identifier>
     <reporting-org ref="BI-NIF-4001055070" type="22">
       <narrative xml:lang="en">Association des Editeurs du Magazine Jimbere</narrative>
